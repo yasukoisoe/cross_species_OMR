@@ -2,11 +2,11 @@
 This repository contains the analysis code and Jupyter notebooks for the manuscript:
 
 "Divergent spatiotemporal integration of whole-field visual motion in medaka and zebrafish"
-*Authors: Yasuko Isoe1*, Yasmine Fatima Mabene2, Bind Marie-Abèle2, Florian Engert1 
-*Affiliation
+Authors: Yasuko Isoe1*, Yasmine Fatima Mabene2, Bind Marie-Abèle2, Florian Engert1 
+Affiliation:
 1. Department of Molecular and Cellular Biology, Faculty of Arts and Sciences, Harvard University, Cambridge, Massachusetts, 02138, USA
 2. Biostatistics Center, Massachusetts General Hospital, Boston, Massachusetts, United States of America, Department of Medicine, Harvard Medical School, Boston, Massachusetts, United States of America
-* Correspondence.
+* Correspondence, yasuko_isoe@fas.harvard.edu
 
 ---
 

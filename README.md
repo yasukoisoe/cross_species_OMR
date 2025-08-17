@@ -21,6 +21,7 @@ Each notebook contains the analysis for one figure.
 | `figure4_analysis.ipynb` | Figure 4 | Divergent responses to unidirectional motion pulse stimuli reveal species-specific temporal dynamics. |
 | `figure5_analysis.ipynb` | Figure 5 | Optomotor response to the alternating stimuli. |
 | `figure6_analysis.ipynb` | Figure 6 | Temporal integration model captures species-specific optomotor responses. |
+| `Supp_figure2_analysis.ipynb` | Supplementary figure 2. |  Spatial integration of orthogonally moving dots |
 
 ## Requirements
 Read requirements.txt
